@@ -1,2 +1,2 @@
 const args = process.argv
-console.log(args);
+console.log(args.slice(2));
